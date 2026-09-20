@@ -9,7 +9,9 @@ geometry on its own, and that the perception pipeline has to survive a real
 bookshelf: poor lighting, vertical text on curved spines, books at angles, and a
 camera on a mast that flexes.
 
-Solo capstone project, Lebanese University, Faculty of Engineering (Branch 1), 2026.
+Capstone project, Lebanese University, Faculty of Engineering (Branch 1), 2026.
+Built solo apart from one week early on, when a classmate tested scripts I sent
+him on the hardware and wrote the first Pi camera server.
 
 ![The robot](docs/media/robot.jpg)
 
