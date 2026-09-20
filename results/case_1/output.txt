@@ -1,0 +1,9 @@
+--- STARTING SCAN (GPU: RTX 4060) ---
+Scanning target: target_book.jpg
+Keywords to find: ['greene', 'robert', 'human nature', 'the laws of']
+Scanning shelf: shelf_rack.jpg
+Shelf scan completed in 0.14 seconds.
+MATCH FOUND: 'greene' found in 'GREENE'
+MATCH FOUND: 'robert' found in 'ROBERT'
+MATCH FOUND: 'human nature' found in 'HUMAN NATURE'
+MATCH FOUND: 'the laws of' found in 'THE LAWS OF'

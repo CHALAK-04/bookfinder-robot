@@ -1,0 +1,10 @@
+--- STARTING SCAN (GPU: RTX 4060) ---
+Scanning target: target_book.jpg
+Keywords to find: ['greene', 'robert', 'human nature', 'the laws of']
+Scanning shelf: shelf_rack.jpg
+Shelf scan completed in 0.16 seconds.
+
+--- PROCESS COMPLETE ---
+Visual result saved: result_viz.jpg
+JSON data for WPF saved: detection_results.json
+PS C:\Users\chala\Desktop\CHALAK_SEM8\MINI-PROJET\TESTING> 

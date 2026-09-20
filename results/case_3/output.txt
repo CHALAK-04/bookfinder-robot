@@ -1,0 +1,5 @@
+--- STARTING SCAN (GPU: RTX 4060) ---
+Scanning target: target_book.jpg
+Keywords to find: ['rewire']
+Scanning shelf: shelf_rack.jpg
+Shelf scan completed in 0.12 seconds.
